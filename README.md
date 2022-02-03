@@ -14,7 +14,7 @@ The spreadsheet must be divided into two sheets. Axie ID must be a clickable lin
 
 ***Journal***
 
-https://calendar.google.com/calendar/embed?src=hhqgf3ptekmmff3qihrb0teudo%40group.calendar.google.com&ctz=Asia%2FManila
+https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
 ***Requirements***
 
