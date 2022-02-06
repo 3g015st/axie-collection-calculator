@@ -25,4 +25,4 @@ https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9
 
 ***Architecture***
 
-![enter image description here](https://i.ibb.co/MfFMHtn/Axie-Collection-Calculator-drawio-1.png%22%20alt=%22Axie-Collection-Calculator-drawio-1)
+![enter image description here](https://i.ibb.co/YZBzpCp/Axie-Collection-Calculator-drawio-1-drawio.png)
