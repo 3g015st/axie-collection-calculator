@@ -26,3 +26,7 @@ https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9
 ***Architecture***
 
 ![enter image description here](https://i.postimg.cc/htnxt5BS/Axie-Collection-Calculator-drawio-1.jpg)
+
+***Spreadsheet Algo***
+
+![enter image description here](https://i.postimg.cc/htd0v5hv/spreadsheet-algo.jpg)
