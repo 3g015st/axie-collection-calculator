@@ -36,3 +36,7 @@ https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9
 
 https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-run-lambda-schedule.html
 
+## SES Setup
+
+https://www.topcoder.com/thrive/articles/using-amazon-ses-with-node-js
+
