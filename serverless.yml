@@ -1,0 +1,17 @@
+service: axie-collection-calculator
+
+frameworkVersion: '3'
+
+package:
+  include:
+    - node_modules/**
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  stage: dev
+  region: ap-east-1
+
+functions:
+  app:
+    handler: handler.app
