@@ -18,7 +18,7 @@ https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9
 
 ***Requirements***
 
- - Must execute every end of the month using a cron job scheduler.
+ - Must execute every 30 days using a cron job scheduler.
  - Must be serverless, I don't want to handle any servers just for this task.
  - Must also fire a notification every time an upload has been made to my Google Sheets.
  - Spreadsheet name format must be : AXIE_COLLECTION_CALCULATION_MONTH_YEAR
