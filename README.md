@@ -20,7 +20,7 @@ https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9
 
  - Must execute every end of the month using a cron job scheduler.
  - Must be serverless, I don't want to handle any servers just for this task.
- - Must also fire a notification every time an upload has been made to my Google Drive.
+ - Must also fire a notification every time an upload has been made to my Google Sheets.
  - Spreadsheet name format must be : AXIE_COLLECTION_CALCULATION_MONTH_YEAR
 
 ***Architecture***
@@ -36,7 +36,5 @@ https://calendar.google.com/calendar/u/2?cid=aGhxZ2YzcHRla21tZmYzcWlocmIwdGV1ZG9
 
 https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-run-lambda-schedule.html
 
-## SES Setup
 
-https://www.topcoder.com/thrive/articles/using-amazon-ses-with-node-js
 
